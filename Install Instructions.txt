@@ -30,3 +30,15 @@ Go to sample project: cd ViroSample
 Install react-viro dependency: npm install -S -E react-viro
 
 Copy Example files into your app: xcopy .\node_modules\react-viro\bin\files\javascript ".\" /f /j /s /y /z
+
+/*
+	Running the project
+*/
+Update app.js to use correct API key - DO NOT COMMIT
+
+-- for android
+Install viro media app on your phone: https://play.google.com/store/apps/details?id=com.viromedia.viromedia
+Install ARCore app: https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en_GB
+
+Go to sample project directory: cd {Project Location/ViroSample}
+Start the packager server: npm start
