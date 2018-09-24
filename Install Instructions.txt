@@ -1,0 +1,32 @@
+-- Guide follows https://docs.viromedia.com/v2.11.0/docs/quick-start-windows
+/*
+	Pre requisites
+*/
+
+Run Cmd as Admin
+Install Chocolatey: @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+Check it installed: choco -? (v0.10.11+)
+
+Install node: choco install nodejs.install -y
+Check it installed: node -v (v10.11.0+)
+
+Install Python2: choco install python2 -y
+Check it installed: python --version (v2.7.15+)
+
+Install Java development kit: choco install jdk8 -y
+Check it installed: java -version (v1.8.0_181+)
+
+Install React Native CLI: npm install -g react-native-cli
+Check it installed: npm list -g -depth 0 react-native-cli (v2.0.1+)
+
+/*
+	Creating a new project
+*/
+
+Go to project directory: cd {Project Location}
+Install sample project: react-native init ViroSample --version=0.55.1
+
+Go to sample project: cd ViroSample
+Install react-viro dependency: npm install -S -E react-viro
+
+Copy Example files into your app: xcopy .\node_modules\react-viro\bin\files\javascript ".\" /f /j /s /y /z
