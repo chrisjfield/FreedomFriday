@@ -1,0 +1,15 @@
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.exe
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.pdb
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhoneSimulator/Debug/ARYouKittenMe2.dll
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhoneSimulator/Debug/ARYouKittenMe2.pdb
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/actool/_PartialAppManifest.items
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/actool/_BundleResourceWithLogicalName.items
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/coremlc/_PartialAppManifest.items
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.0/optimized/
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.csprojAssemblyReference.cache
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.csproj.CoreCompileInputs.cache
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.csproj.CopyComplete
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.exe
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhoneSimulator/Debug/ARYouKittenMe2.iOS.pdb

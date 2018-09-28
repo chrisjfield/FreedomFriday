@@ -1,0 +1,6 @@
+/Users/tanveersingh/Projects/ARYouKittenMe2/ARYouKittenMe2/bin/Debug/ARYouKittenMe2.dll
+/Users/tanveersingh/Projects/ARYouKittenMe2/ARYouKittenMe2/bin/Debug/ARYouKittenMe2.pdb
+/Users/tanveersingh/Projects/ARYouKittenMe2/ARYouKittenMe2/obj/Debug/ARYouKittenMe2.csprojAssemblyReference.cache
+/Users/tanveersingh/Projects/ARYouKittenMe2/ARYouKittenMe2/obj/Debug/ARYouKittenMe2.csproj.CoreCompileInputs.cache
+/Users/tanveersingh/Projects/ARYouKittenMe2/ARYouKittenMe2/obj/Debug/ARYouKittenMe2.dll
+/Users/tanveersingh/Projects/ARYouKittenMe2/ARYouKittenMe2/obj/Debug/ARYouKittenMe2.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{29DEE72F-B82D-4781-863C-D0125B024753}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/ViewController.cs" Line="111" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ARYouKittenMe2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-001868E922D8002E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ARYouKittenMe2.iOS>
+  <MonoDevelop.Ide.ItemProperties.ARYouKittenMe2.Droid FirstBuild="True" />
+</Properties>

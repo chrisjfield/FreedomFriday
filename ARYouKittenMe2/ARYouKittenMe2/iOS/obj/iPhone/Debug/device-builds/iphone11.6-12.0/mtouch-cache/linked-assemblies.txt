@@ -1,0 +1,4 @@
+RemoveDynamicRegistrar:true
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhone/Debug/device-builds/iphone11.6-12.0/ARYouKittenMe2.iOS.app:/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhone/Debug/device-builds/iphone11.6-12.0/mtouch-cache/1-Link/ARYouKittenMe2.iOS.exe
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhone/Debug/device-builds/iphone11.6-12.0/ARYouKittenMe2.iOS.app:/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhone/Debug/device-builds/iphone11.6-12.0/mtouch-cache/1-Link/mscorlib.dll
+/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/bin/iPhone/Debug/device-builds/iphone11.6-12.0/ARYouKittenMe2.iOS.app:/Users/tanveersingh/Projects/ARYouKittenMe2/iOS/obj/iPhone/Debug/device-builds/iphone11.6-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
