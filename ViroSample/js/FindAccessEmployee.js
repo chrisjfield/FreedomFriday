@@ -30,7 +30,7 @@ var FindAccessEmployee = createReactClass({
                 <ViroText text={String(this.state.anchorFound)} scale={[.5, .5, .5]} position={[0, 0, -1]} style={styles.helloWorldTextStyle} />
 
                 <ViroARImageMarker target={"accessCard"} onAnchorFound={this._onAnchorFound} pauseUpdates={this.state.pauseUpdates}>
-                    <ViroNode position={[1, -2, -1]} scale={[1, 1, 1]} rotation={[270, 0, 0]} dragType="FixedToWorld" onDrag={() => { }}>
+                    <ViroNode position={[0.75, -2, 0]} scale={[1, 1, 1]} rotation={[265, 0, 15]} dragType="FixedToWorld" onDrag={() => { }}>
                         <ViroImage
                             source={require("./res/Ed.jpg")}
                         />
@@ -52,7 +52,7 @@ ViroARTrackingTargets.createTargets({
     "accessCard": {
         source: require('./res/accessCard.jpg'),
         orientation: "up",
-        physicalWidth: 0.07 // real world width in meters
+        physicalWidth: 0.15 // real world width in meters
     },
 });
 
