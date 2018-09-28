@@ -41,13 +41,13 @@ var FindAccessEmployee = createReactClass({
                         />
                     </ViroNode>
                     {this.state.showDetail
-                        ? <ViroNode position={[0.95, -2.1, 0]} scale={[1, 1, 1]} rotation={[265, 0, 15]} animation={{ name: "dropInfo", run: true, }}>
+                        ? <ViroNode position={[1.4, -2.1, 0.4]} scale={[1, 1, 1]} rotation={[265, 0, 15]} animation={{ name: "dropInfo", run: true, }}>
                             {/* <ViroImage
                                 source={require("./res/accessCard.jpg")}
                                 onClick={this._onImageClick}
                                 Opacity="0.6"
                             /> */}
-                            <ViroText text={bioText} style={styles.bioTextStyle} />
+                            <ViroText text={bioText} style={styles.bioTextStyle} width={2} height={2} />
                         </ViroNode>
                         : null
                     }
@@ -96,15 +96,14 @@ ViroAnimations.registerAnimations({
 });
 
 var bioText = ` 
-I am Ed
-
-I love dicks
-
-nom nom nom
+Ed Burt
+Developer
+Loughborough
 `
+
 var styles = StyleSheet.create({
     bioTextStyle: {
-        color: '#E5173F',
+        color: 'white',
     },
 });
 
