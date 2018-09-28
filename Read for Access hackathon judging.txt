@@ -1,0 +1,5 @@
+We have 3 apps in this folder:
+* ViroSample, this contains the augmented reality component
+* FaceSpotter-starter, this contains the facial recognition code
+
+We uesd Googles facial recognition API, android and IOS AR functionality. Written in xamerin, react native and Java to test concepts accross tech stacks

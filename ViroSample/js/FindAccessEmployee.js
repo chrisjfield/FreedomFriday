@@ -32,7 +32,7 @@ var FindAccessEmployee = createReactClass({
         return (
             <ViroARScene>
                 <ViroARImageMarker target={"accessCard"} onAnchorFound={this._onAnchorFound} pauseUpdates={this.state.pauseUpdates}>
-                    <ViroNode position={[0.9, -2, 0]} scale={[1, 1, 1]} rotation={[265, 0, -75]}
+                    <ViroNode position={[0.5, -2, 0]} scale={[1, 1, 1]} rotation={[265, 0, -75]}
                         dragType="FixedToWorld" onDrag={() => { }} animation={{ name: "rotateImage", run: this.state.playPictureAnim, }}>
                         <ViroImage
                             source={require("./res/Ed.jpg")}
@@ -41,7 +41,7 @@ var FindAccessEmployee = createReactClass({
                         />
                     </ViroNode>
                     {this.state.showDetail
-                        ? <ViroNode position={[1.4, -2.1, 0.4]} scale={[1, 1, 1]} rotation={[265, 0, 15]} animation={{ name: "dropInfo", run: true, }}>
+                        ? <ViroNode position={[0.95, -2.1, 0.7]} scale={[1, 1, 1]} rotation={[265, 0, 15]} animation={{ name: "dropInfo", run: true, }}>
                             {/* <ViroImage
                                 source={require("./res/accessCard.jpg")}
                                 onClick={this._onImageClick}
@@ -89,7 +89,7 @@ ViroAnimations.registerAnimations({
     },
     dropInfo: {
         properties: {
-            positionZ: "+=1",
+            positionZ: "+=0.7",
         },
         duration: 1000,
     },
